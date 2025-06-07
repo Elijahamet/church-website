@@ -1,3 +1,3 @@
 # church-website
 
-full church websitee, 
+full church websitee, very functionable
